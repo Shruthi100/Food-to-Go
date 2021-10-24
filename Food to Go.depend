@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611138254 source:c:\users\admin\desktop\data structure lad\open ended question\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
